@@ -76,13 +76,14 @@ _(Not really a decision tree: level $i$ of the tree represents the categories us
 - 16.12.22: Steps 7, 8, 9
 - 23.12.22: **Deadline Milestone 3**
 
-## Organization within the team: 
+## Organization within the team
+
 - Leandre: Steps 1, 3, 7, 8
 - Maxime: Steps 2, 4, 6, 9
 - Pascal: Steps 4, 5, 8, 9
 - Thibaud: Steps 3, 5, 6, 9
 
-## Instructions to run the notebook
+## Instructions to run the notebook
 
 To run the notebook locally, be sure to add the file 'ratings.txt.gz' of the BeerAdvocate website in the data folder of the root repository.
 The file can be found on the [2022 ADA datasets webpage](https://go.epfl.ch/ada22_datasets).
