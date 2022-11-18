@@ -70,14 +70,14 @@ _(Not really a decision tree: level $i$ of the tree represents the categories us
 
 ## Proposed timeline
 
-- 25.11.22: Work on HW2, Steps X X X
+- 25.11.22: Work on HW2, Steps 2, 3, 6
 - 02.12.22: **Deadline Homework 2**
-- 09.12.22: Steps X, X, X, X
-- 16.12.22: Steps X, X, X, X
+- 09.12.22: Steps 1, 4, 5
+- 16.12.22: Steps 7, 8, 9
 - 23.12.22: **Deadline Milestone 3**
 
 ## Organization within the team: 
-- Leandre: Steps X, X, X, X
-- Maxime: Steps X, X, X, X
-- Pascal: Steps X, X, X, X
-- Thibaud: Steps X, X, X, X
+- Leandre: Steps 1, 3, 7, 8
+- Maxime: Steps 2, 4, 6, 9
+- Pascal: Steps 4, 5, 8, 9
+- Thibaud: Steps 3, 5, 6, 9
