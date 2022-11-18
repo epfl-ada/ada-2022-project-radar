@@ -16,14 +16,18 @@ By analyzing ratings submitted on BeerAdvocate and RateBeer, two of the largest 
 
 - Is there a single gateway beer style?
 - What are the common characteristics between the first beers the users decide to rate?
-- How 
-- Do people starting with a similar beer taste follow a common path? (Observational study? -> explore) 
+- Do people starting with a similar beer taste follow a common path? (Observational study? -> explore)
+- There are two ways to rate a beer. Either the final grade of a beer is a weighted average of five different criteria such as appearance, palate or taste, or the user just gives the final grade of the beer. Detecting nuances in the beers is a sign of expertise and we would like to check if the users tend to give more detailed ratings through time or not.
 
-## Proposed additional datasets / Data sets used ?
+## Data sets used ?
 
-- beers.csv
-- users.csv
-- ratings.txt.gz
+The datasets of both beer rating websites contain data gathered between 2001 and 2017. They share a common structure and contain the following three files which we use for our analysis:
+
+- **beers.csv**
+contains informations about every beer that users can rate on the respective website, e.g. its name, its average rating on the website or the total number of ratings it received.  
+- **users.csv**
+contains informations about every user that was active on the website between 2001 and 2017, e.g. his username, the place where he lives or the number of ratings he submitted on the website.
+- **ratings.txt.gz** keeps track of every rating that was submitted on the website between 2001 and 2017. A rating is composed 
 
 ## Methods
 **Step: Explore RateBeer dataset**
