@@ -1,8 +1,5 @@
 # Road to beer experts: how do beer tastes evolve through time?
 
-___Study of the evolution of beer tastes through time___
-
-
 ## Abstract
 
 From our own experience, we can tell that our beer tastes have drastically evolved over the past 10 years. At first, we only drank Pils and found other styles of beer disgusting. Today, we can enjoy an IPA but are not yet satisfied when being served a Guinness. 
