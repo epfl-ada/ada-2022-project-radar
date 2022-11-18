@@ -56,7 +56,7 @@ contains informations about every user that was active on the website, e.g. his 
 **Step 7: Improving graph visualization**
 - Look for other libraries that allow to visualize graphs.
 - Adapt the code to every library and present the visualizations to the others.
-- Check feasibility of implementing a graph visualization tool from the scratch.
+- Check feasibility of implementing a graph visualization tool from scratch.
 
 **Step 8: Redaction of the final data story**
 - Think about the plot of the final data story
