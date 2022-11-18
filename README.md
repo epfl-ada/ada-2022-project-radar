@@ -28,86 +28,59 @@ contains informations about every user that was active on the website between 20
 - **ratings.txt.gz** keeps track of every rating submitted on the website between 2001 and 2017. A rating is composed of five different criteria: appearance, aroma, palate, taste and overall impression. The user can also further elaborate his feelings by leaving a comment in form of a small text.
 
 ## Methods
-**Step: Explore RateBeer dataset**
+
+**Step 1: Explore RateBeer dataset**
 - Preprocess the dataset in the same fashion as the BeerAdvocate dataset. 
 - Gain insights on the data and check for possible difference with the BeerAdvocate dataset.
 - Decide if it is possible to combine both datasets or if it is better to use the RateBeer dataset as a control website.
 
-**Step: Continue exploring the different datasets**
+**Step 2: Continue exploring the different datasets**
 - Think about new data representation techniques that would help to gain insights on the data
 - Come up with new interesting and meaningul visualizations
 - Determine which visualizations techniques would nicely render on the final website
 
-**Step: Create an efficient data preprocessing pipeline**
+**Step 3: Create an efficient data preprocessing pipeline**
 - Determine solid criteria for filtering valid US users based on number of ratings and time spacing between ratings.
 - Work with different metrics representing user activeness of a user. 
 - Come up with different metrics representing time spacing between ratings.
 
-**Step: Explore feasibility of observational study**
+**Step 4: Explore feasibility of observational study**
 - Determine an initial similarity measure for two users. 
 - Compare the respective paths of the matched users.
 - Coming up with interesting research questions (and try to answer them) such as: When do the paths split? Can we determine reasons behind them taking separate paths? What are the common characteristics of people that went on the same path?
 
-**Step: Explore feasibility of "decision" trees**
+**Step 5: Explore feasibility of "decision" trees**
 - Determine if method is interesting to pursue
 - Level $i$ of the tree represents the categories users rated in their $i$-th rating. Number of nodes per level is therefore limited to 15. 
 - Gain insights on the data by comparing the different paths taken by users, determining "heavy" nodes in the graph, check total number of final leaves.
 
-**Step: Graph Mining**
+**Step 6: Graph Mining**
 - Continue to improve the network representation of the data, test different edge weights and incorporate user ratings into the network.
 - Run, test and find different graph mining algorithms. Methods we already have in mind: Louvain algorithm, Girvan-Newman Algorithm.
 - Analyze and present insights gained from the above analysis
 
-**Step: Improving graph visualization**
+**Step 7: Improving graph visualization**
 - Look for other libraries that allow to visualize graphs.
 - Adapt the code to every library and present the visualizations to the others.
 - Check feasibility of implementing a graph visualization tool from the scratch.
 
-**Step: Redaction of the final data story**
-- Think about 
+**Step 8: Redaction of the final data story**
+- Think about the plot of the final data story
+- Start to write the final text and incorporate data visualizations 
 
-**Step: Get familiar with GitHub pages and start building the final website**
-
-**End the project**
+**Step 9: Start building the final website**
+- Get familiar with GitHub pages
+- Look for interesting templates that we could use
 
 ## Proposed timeline
-* 
-* 
+* 25.11.22: Work on HW2, Steps X X X
 * 02.12.22: **Deadline Homework 2**
+* 09.12.22: Steps X, X, X, X
+* 16.12.22: Steps X, X, X, X
 * 23.12.22: **Deadline Milestone 3**
 
 ## Organization within the team: 
-
-<table class="tg" style="undefined;table-layout: fixed; width: 342px">
-<colgroup>
-<col style="width: 164px">
-<col style="width: 178px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax">Tasks</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">@epplepascal</td>
-    <td class="tg-0lax">Come up with meaningful visualizations<br><br>Continue exploring the dataset<br><br>Develop the final text for the data story</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">@castagnaleandre</td>
-    <td class="tg-0lax">Develop the web interface<br><br>Analyze news website bias<br><br>Develop the final text for the data story</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">@TicaGit</td>
-    <td class="tg-0lax">Define topic of interests<br><br>Tune clustering<br><br>Develop the final text for the data story</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">@maximepoffet</td>
-    <td class="tg-0lax">Develop the web interface<br><br>Integrate datasets of all years<br><br>Develop the final text for the data story</td>
-  </tr>
-</tbody>
-</table>
-
-## Questions for TAs (optional)
-Add here any questions you have for us related to the proposed project.
+- Leandre: Steps X, X, X, X
+- Maxime: Steps X, X, X, X
+- Pascal: Steps X, X, X, X
+- Thibaud: Steps X, X, X, X
