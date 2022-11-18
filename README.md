@@ -45,9 +45,10 @@ contains informations about every user that was active on the website, e.g. his 
 - Coming up with interesting research questions (and try to answer them) such as: When do the paths split? Can we determine reasons behind them taking separate paths? What are the common characteristics of people that went on the same path?
 
 **Step 5: Explore feasibility of "decision" trees**
-Not really a decision tree: Level $i$ of the tree represents the categories users rated in their $i$-th rating. Number of nodes per level is therefore limited to 15. 
+
+_(Not really a decision tree: level $i$ of the tree represents the categories users rated in their $i$-th rating. Number of nodes per level is therefore limited to 15.)_
 - Determine if method is interesting to pursue
-- Gain insights on the data by comparing the different paths taken by users, determining "heavy" nodes in the graph, check total number of final leaves.
+- Gain insights on the data by comparing the different paths taken by users, determining "heavy" or "hot" nodes in the graph, check total number of final leaves.
 
 **Step 6: Graph Mining**
 - Continue to improve the network representation of the data, test different edge weights and incorporate user ratings into the network.
