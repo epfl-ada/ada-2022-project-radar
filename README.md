@@ -5,9 +5,9 @@ ___Study of the evolution of beer tastes through time___
 
 ## Abstract
 
-From our own experience, we can tell that our beer tastes have drastically evolved over the past 10 years. At first, we only drank Pils and found other styles of beer disgusting. Today, we can enjoy an IPA but are not yet satisfied when being served a Guinness.
-Then, an obvious question occurs: Are these feelings we perceive also present in other users? 
-By analyzing ratings submitted on BeerAdvocate and RateBeer, two of the largest beer rating websites, we want to determine if these shifts in beer taste are common to other people as well.
+From our own experience, we can tell that our beer tastes have drastically evolved over the past 10 years. At first, we only drank Pils and found other styles of beer disgusting. Today, we can enjoy an IPA but are not yet satisfied when being served a Guinness. 
+
+An obvious question occurs: are these feelings we perceive common to other beer drinkers as well? By analyzing detailed beer ratings submitted by millions of users on two of the largest beer rating websites worldwide, namely [BeerAdvocate](https://www.beeradvocate.com/) and [RateBeer](https://www.ratebeer.com/), we want to determine if and how beer tastes of people change through time. 
 
 <!-- We could try to classify users into different categories, going from complete beginner to expert, based per example on the number of reviews a user has written. It would then be interesting to detect first how these people’s tastes differ from each other, but also if in the beginning an expert had the same tastes/drank similar beers as a complete beginner. By looking at the text reviews through time, we might also find that users develop a specific vocabulary and become more able to express their sentiment towards beer. -->
 
