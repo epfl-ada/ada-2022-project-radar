@@ -81,3 +81,9 @@ _(Not really a decision tree: level $i$ of the tree represents the categories us
 - Maxime: Steps 2, 4, 6, 9
 - Pascal: Steps 4, 5, 8, 9
 - Thibaud: Steps 3, 5, 6, 9
+
+## Instructions to run the notebook
+
+To run the notebook locally, be sure to add the file 'ratings.txt.gz' of the BeerAdvocate website in the data folder of the root repository.
+The file can be found on the [2022 ADA datasets webpage](https://go.epfl.ch/ada22_datasets).
+
