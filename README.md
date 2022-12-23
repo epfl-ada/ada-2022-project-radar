@@ -5,13 +5,12 @@ From our own experience, we can tell that our beer tastes have drastically evolv
 
 An obvious question occurs: are these shifts in beer tastes we experience common to other beer drinkers as well? By analyzing detailed beer ratings submitted by millions of users on two of the largest beer rating websites worldwide, namely [BeerAdvocate](https://www.beeradvocate.com/), we want to determine if and how beer tastes of people evolve through time. To tackle this question, we explore and combine different data representation techniques. Moreover, using several unsupervised learning techniques, we detect similarities in the beer tastes at the beginning of the drinking career of the users and analyze how they vary as they become more experienced. Lastly, we mathematically consolidate our findings with the use of statistics.
 
-## Website
+## Data Story
 We created a website to present our results and we highly recommend you to [check it out](https://maximepoffet.github.io/rADAr-datastory/). On there, you will be able to play with interactive plots and you will meet the four protagonists of our data story: Jean-Michel IPA, Marcel Stouts, James Bland and Ada the Explorer!
 
-## Instructions to run the notebook (Milestone 3)
+## Instructions to run the notebooks
 
-To run the notebook `milestone3.ipynb` locally, be sure to add the file 'ratings.txt.gz' of the BeerAdvocate website in the data folder of the root repository. The file can be found on the [2022 ADA datasets webpage](https://go.epfl.ch/ada22_datasets). We specified every python package needed in order to run the notebook in the first cell of it. Make sure to have them all downloaded and updated.
-
+To run the notebook `milestone3.ipynb` and  `milestone2.ipynb` locally, be sure to add the file 'ratings.txt.gz' of the BeerAdvocate website in the data folder of the root repository. The file can be found on the [2022 ADA datasets webpage](https://go.epfl.ch/ada22_datasets). We specified every python package needed in order to run the notebook in the first cell of it. Make sure to have them all downloaded and updated.
 
 ## Research Questions
 - Is there a beer category that serves as a gateway category?
