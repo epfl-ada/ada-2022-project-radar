@@ -20,13 +20,6 @@ To run the notebook `milestone3.ipynb` locally, be sure to add the file 'ratings
 - Are there some beer categories where people eventually all end up in? 
 - There are two ways to rate a beer. Either the final grade of a beer is a weighted average of five different criteria (such as appearance, palate or taste), or it is a single appreciation grade. Detecting nuances in the beers is one possible sign of user expertise and we want to analyze if users tend to give more detailed ratings through time or not. 
 
-## Team rADAr
-- Leandre Castagna
-- Pascal Epple
-- Maxime Poffet
-- Thibaud Trinca 
-
-
 ## Data sets used
 
 - **beers.csv**
@@ -35,9 +28,15 @@ contains informations about every beer that users can rate on the respective web
 contains informations about every user that was active on the website, e.g. his username, the place where he lives or the number of ratings he submitted on the website.
 - **ratings.txt.gz** keeps track of every rating submitted on the website between 2001 and 2017. A rating is composed of five different criteria: appearance, aroma, palate, taste and overall impression. The user can also further elaborate his feelings by leaving a comment in form of a small text.
 
+## Team rADAr
+- Leandre Castagna
+- Pascal Epple
+- Maxime Poffet
+- Thibaud Trinca 
+
 #
 ## <div align="center">  :arrow_down: **Milestone 2 Infos** :arrow_down: </div>
-#
+
 
 ## Methods
 **Step 1: Explore RateBeer dataset**
