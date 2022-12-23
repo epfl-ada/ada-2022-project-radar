@@ -12,13 +12,6 @@ We created a website to present our results and we highly recommend you to [chec
 
 To run the notebook `milestone3.ipynb` and  `milestone2.ipynb` locally, be sure to add the file 'ratings.txt.gz' of the BeerAdvocate website in the data folder of the root repository. The file can be found on the [2022 ADA datasets webpage](https://go.epfl.ch/ada22_datasets). We specified every python package needed in order to run the notebook in the first cell of it. Make sure to have them all downloaded and updated.
 
-## Research Questions
-- Is there a beer category that serves as a gateway category?
-- What are the common characteristics between the first beers users decide to rate?
-- Do people with a similar initial beer taste follow a common path? When and why do their paths split? 
-- Are there some beer categories where people eventually all end up in? 
-- There are two ways to rate a beer. Either the final grade of a beer is a weighted average of five different criteria (such as appearance, palate or taste), or it is a single appreciation grade. Detecting nuances in the beers is one possible sign of user expertise and we want to analyze if users tend to give more detailed ratings through time or not. 
-
 ## Data sets used
 
 - **beers.csv**
@@ -36,6 +29,12 @@ contains informations about every user that was active on the website, e.g. his 
 #
 ## <div align="center">  :arrow_down: **Milestone 2 Infos** :arrow_down: </div>
 
+## Research Questions
+- Is there a beer category that serves as a gateway category?
+- What are the common characteristics between the first beers users decide to rate?
+- Do people with a similar initial beer taste follow a common path? When and why do their paths split? 
+- Are there some beer categories where people eventually all end up in? 
+- There are two ways to rate a beer. Either the final grade of a beer is a weighted average of five different criteria (such as appearance, palate or taste), or it is a single appreciation grade. Detecting nuances in the beers is one possible sign of user expertise and we want to analyze if users tend to give more detailed ratings through time or not. 
 
 ## Methods
 **Step 1: Explore RateBeer dataset**
